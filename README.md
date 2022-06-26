@@ -1,2 +1,2 @@
 # odin-recipes
-Been in a rollercoaster but it's worthy
+Enhancing the skill from TOP in creating a webpage. The end goal is to familiarize html tags and elements as well as using Git. And publishing my work in Github to be scrutinize and be guided with my journey by advanced web developers.
